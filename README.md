@@ -7,6 +7,7 @@ API using mock data to represent a database of designer brands in GO<br>
 3.) go to local host 3000 / api / brands to view data. to view single brands type /<b>brands id number</b> after brands ex: (localhost 3000/ api / brands / 1 <br>
 4.) I used Postman to edit, delete, modify, add data to the database. <br>
 5.) To update or post click the Headers section and make the key Content-Type and the value application/json and in the Body section type away using correct JSON syntax.<br>
+6.) To Delete just type in the brand url and select delete in the drop down and send. ex: localhost:3000/api/brands/2 (click big orange send button while delete is selected)<br><br>
 
 Thank you very much!
 
