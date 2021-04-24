@@ -1,5 +1,5 @@
 # brand-api
-API using mock data to represent a database of designer brands in GO<br>
+API using mock data to represent a database of designer brands in GO.<br>
 
 <h1>FOR USE:</h1><br>
 1.) Download or Clone Project (preferably in your $GOPATH)<br>
